@@ -1,0 +1,6 @@
+0 pipit
+1 merpati
+2 burung hantu
+3 burung puter
+4 ayam
+5 bebek
